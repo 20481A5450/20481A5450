@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm SHAIK.ZOHAIB</h1>
 <h3 align="center">A passionate Data Science student and Full Stack Web Developer. Welcome to my GitHub profile!</h3>
+<img src="http://bit.ly/2YpZVga" alt="Example Image">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=20481a5450&label=Profile%20views&color=0e75b6&style=flat" alt="20481a5450" /> </p>
 
