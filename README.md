@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shaikzohaibgec@gmail.com**
 
-- ⚡ Fun fact0 **The term "data science" was first coined in 1960 by computer scientist Peter Naur in his paper titled "Concise Survey of Computer Methods." However, it wasn't until decades later that the field gained significant recognition and popularity. Today, data science has become a dynamic and essential discipline that combines various skills to extract valuable insights from data, driving innovation in industries worldwide.**
+- ⚡ Fun fact **The term "data science" was first coined in 1960 by computer scientist Peter Naur in his paper titled "Concise Survey of Computer Methods." However, it wasn't until decades later that the field gained significant recognition and popularity. Today, data science has become a dynamic and essential discipline that combines various skills to extract valuable insights from data, driving innovation in industries worldwide.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
