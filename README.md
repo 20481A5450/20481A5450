@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm SHAIK.ZOHAIB</h1>
 <h3 align="center">A passionate Data Science student and Full Stack Web Developer. Welcome to my GitHub profile!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=20481a5450&label=Profile%20views&color=0e75b6&style=flat" alt="20481a5450" /> </p>
-- 🔭 I’m currently working on **NLP Driven drug recommendation system powered by AI**
-- 💬 Ask me about **Data Science**
-- 📫 How to reach me **shaikzohaibgec@gmail.com**
+- 🔭 I’m currently working on **NLP Driven drug recommendation system powered by AI**<br/>
+- 💬 Ask me about **Data Science**<br/>
+- 📫 How to reach me **shaikzohaibgec@gmail.com**<br/>
 - ⚡ Fun fact0 **The term "data science" was first coined in 1960 by computer scientist Peter Naur in his paper titled "Concise Survey of Computer Methods." However, it wasn't until decades later that the field gained significant recognition and popularity. Today, data science has become a dynamic and essential discipline that combines various skills to extract valuable insights from data, driving innovation in industries worldwide.**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
