@@ -14,9 +14,7 @@ I am currently pursuing a degree in Artificial Intelligence and Data Science, di
 - 🤝 I'm open to collaborating on Interesting Projects
 - ⚡ Unveiling my essence: Genius, Future Billionaire, Playboy, and Philanthropist. 🦸‍♂️💰🌟 #TonyStarkVibes
 
-### Skills
-<!-- Add your skills or technologies here -->
-ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
+
 
 ### Skills
 <!-- Add your skills or technologies here -->
