@@ -1,4 +1,4 @@
-<div style="background-color: #1c1c1c; padding: 20px;">
+<div style="background-color: black; padding: 20px;">
   <h1 style="color: #ffffff;">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">,</h1>
   <h2 style="color: #ffffff;">My name is SHAIK ZOHAIB</h2>
 
