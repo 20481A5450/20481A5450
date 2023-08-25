@@ -18,13 +18,12 @@ I am currently pursuing a degree in Artificial Intelligence and Data Science, di
 <!-- Add your skills or technologies here -->
 ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
 
-### Socials
-<!-- Replace with your actual social media links -->
+### Skills
+<!-- Add your skills or technologies here -->
 <p align="left">
-  <a href="https://www.github.com/20481A5450" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-  <a href="http://www.instagram.com/___sk.09___" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-  <a href="https://www.linkedin.com/in/shaik-zohaib-1a8877216" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="https://www.stackoverflow.com/users/22348151" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+  <a href="LINK_TO_YOUR_TECHNOLOGY1"><img src="ICON_URL1" alt="Technology 1" width="40" height="40"/></a>
+  <a href="LINK_TO_YOUR_TECHNOLOGY2"><img src="ICON_URL2" alt="Technology 2" width="40" height="40"/></a>
+  <!-- Add more skills/technologies as needed -->
 </p>
 
 ### Badges
