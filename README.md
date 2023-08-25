@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/c0NwRD0Vi5Cta/giphy.gif" alt="Header Image" height= 450px  width="100%">
+<img src="https://media.giphy.com/media/c0NwRD0Vi5Cta/giphy.gif" alt="Header Image" height= 400px  width="100%">
 </div>
 
 # Hi! 👋 My name is SHAIK ZOHAIB
