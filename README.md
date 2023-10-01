@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://drive.google.com/file/d/1Z2C-vZM8l8CPp9xx8cdGozLMzVD2xPrD/view?usp=sharing" alt="Header Image" height= 300px  width="70%">
+<img src="" alt="Header Image" height= 300px  width="70%">
 </div>
 
 # Hi! 👋 My name is SHAIK ZOHAIB
