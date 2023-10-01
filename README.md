@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://w0.peakpx.com/wallpaper/516/544/HD-wallpaper-github-purple-logo-purple-brickwall-github-logo-social-networks-github-neon-logo-github.jpg" alt="Header Image" height= 300px  width="70%">
+<img src="" alt="Header Image" height= 300px  width="70%">
 </div>
 
 # Hi! 👋 My name is SHAIK ZOHAIB
