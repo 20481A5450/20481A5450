@@ -36,3 +36,5 @@ I am currently pursuing a degree in Artificial Intelligence and Data Science, di
 ![](https://github-readme-streak-stats.herokuapp.com/?user=20481A5450&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=20481A5450&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+##
+![snake gif](https://github.com/20481A5450/20481A5450/blob/output/github-contribution-grid-snake.svg)
