@@ -3,7 +3,6 @@
 ###
 
 <div align="center">
-https://github.com/20481A5450/20481A5450/assets/99806742/5f519b0d-034c-476e-83ac-970db9233a77
 </div>
 
 ###
@@ -27,7 +26,7 @@ https://github.com/20481A5450/20481A5450/assets/99806742/5f519b0d-034c-476e-83ac
 ###
 <p>Hi there!  I'm Shaik Zohaib, a passionate Data Science student and Full Stack Web Developer based in Vijayawada, Andhra Pradesh, India. 🇮🇳</p>
 
-<p><b>By Day:</b> I'm currently pursuing a degree in Artificial Intelligence and Data Science, delving into the fascinating realms of data analysis, machine learning, and statistics. I'm driven by the power of data to unlock insights and empower informed decisions. </p>
+<p><b>By Day:</b> I'm currently pursuing a degree in Artificial Intelligence and Data Science, delving into the fascinating realms of data analysis, machine learning, and statistics.</p>
 
 <p><b>By Night:</b> I switch gears and channel my creativity into crafting interactive and user-friendly web experiences as a Full Stack Web Developer. I enjoy the challenge of building beautiful and functional interfaces. </p>
 
