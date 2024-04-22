@@ -104,3 +104,5 @@
 ###
 
 <br clear="both">
+
+![snake animation](https://github.com/<seu 20481A5450>/<seu 20481A5450>/blob/output/github-contribution-grid-snake2.svg)
