@@ -3,10 +3,14 @@
 ###
 
 <div align="center">
-  <img height="300" src=""  />
+
+Uploading Untitled video - Made with Clipchamp (2).mp4…
+
 </div>
 
 ###
+
+
 
 <div align="center">
   <a href="https://www.instagram.com/___sk.09__/" target="_blank">
@@ -25,8 +29,15 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
+<p>Hi there!  I'm Shaik Zohaib, a passionate Data Science student and Full Stack Web Developer based in Vijayawada, Andhra Pradesh, India. 🇮🇳</p>
 
-<p align="left">A passionate Data Science student and Full Stack Web Developer. Welcome to my GitHub profile!<br><br>I am currently pursuing a degree in Artificial Intelligence and Data Science, diving deep into the world of data analysis, machine learning, and statistics. I'm enthusiastic about utilizing data to gain insights and make informed decisions. On the flip side, I also love crafting interactive and user-friendly web experiences as a Full Stack Web Developer.<br><br>🌍 I'm based from Vijayawada, Andhra Pradesh, India<br>✉️ You can contact me at shaikzohaibgec@gmail.com<br>🧠 I'm learning Data Science<br>🤝 I'm open to collaborate on Interesting Projects<br>⚡ Unveiling my essence: Genius, Future Billionaire, Playboy, and Philanthropist. 🦸‍♂️💰🌟 #TonyStarkVibes</p>
+<p>**By Day:** I'm currently pursuing a degree in Artificial Intelligence and Data Science, delving into the fascinating realms of data analysis, machine learning, and statistics. I'm driven by the power of data to unlock insights and empower informed decisions. </p>
+
+<p>**By Night:** I switch gears and channel my creativity into crafting interactive and user-friendly web experiences as a Full Stack Web Developer. I enjoy the challenge of building beautiful and functional interfaces. </p>
+
+<p>**Beyond the Code:** I'm always eager to learn and collaborate!   I'm open to exploring interesting projects and connecting with like-minded individuals. Feel free to reach out at shaikzohaibgec@gmail.com. ✉️</p>
+
+<p>**P.S.** While I may not be Tony Stark himself, I share his passion for innovation and a hint of his audacious spirit.  #AlwaysLearning #FutureMaker</p>
 
 ###
 
