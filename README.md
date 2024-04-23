@@ -2,11 +2,11 @@
 
 ###
 
-
-https://github.com/20481A5450/20481A5450/assets/99806742/2e3f9059-0442-4db0-8eee-3f2e1aab7c03
-
-
 <div align="center">
+
+
+https://github.com/20481A5450/20481A5450/assets/99806742/c7acd837-1feb-4d62-a86d-f58c6ab3be68
+
 
 </div>
 
@@ -31,13 +31,13 @@ https://github.com/20481A5450/20481A5450/assets/99806742/2e3f9059-0442-4db0-8eee
 ###
 <p>Hi there!  I'm Shaik Zohaib, a passionate Data Science student and Full Stack Web Developer based in Vijayawada, Andhra Pradesh, India. 🇮🇳</p>
 
-<p><b>By Day:</b> I'm currently pursuing a degree in Artificial Intelligence and Data Science, delving into the fascinating realms of data analysis, machine learning, and statistics.</p>
+<p><b>By Day:</b> I'm currently pursuing a degree in Artificial Intelligence and Data Science, delving into the fascinating realms of data analysis, machine learning, and statistics. </p>
 
-<p><b>By Night:</b> I switch gears and channel my creativity into crafting interactive and user-friendly web experiences as a Full Stack Web Developer. I enjoy the challenge of building beautiful and functional interfaces. </p>
+<p><b>By Night:</b> I switch gears and channel my creativity into crafting interactive and user-friendly web experiences as a Full Stack Web Developer. I enjoy the challenge of building beautiful and functional interfaces. ✨️</p>
 
 <p><b>Beyond the Code:</b> I'm always eager to learn and collaborate!   I'm open to exploring interesting projects and connecting with like-minded individuals. Feel free to reach out at shaikzohaibgec@gmail.com. ✉️</p>
 
-<p><b>P.S.</b> While I may not be Tony Stark himself, I share his passion for innovation and a hint of his audacious spirit.  #AlwaysLearning #FutureMaker</p>
+<p><b>P.S.</b> While I may not be Tony Stark himself, I share his passion for innovation and a hint of his audacious spirit.  #AlwaysLearning #FutureMaker </p>
 
 ###
 
