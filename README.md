@@ -116,5 +116,5 @@ https://github.com/20481A5450/20481A5450/assets/99806742/c7acd837-1feb-4d62-a86d
 
 ![snake animation](https://github.com/20481A5450/20481A5450/blob/output/github-contribution-grid-snake-dark.svg)
 
-![Visitor Tracker](https://whostalkedme.onrender.com/tracker.png)
+![Visitor Tracker](https://whostalkedme.onrender.com/tracke.png)
 
